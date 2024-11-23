@@ -22,7 +22,7 @@ A lightweight utility for managing and monitoring LND (Lightning Network Daemon)
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/lnd-cert-manager
+git https://github.com/Trusttobitcoin/LND-Certificate-Manager
 cd lnd-cert-manager
 
 # Make scripts executable
